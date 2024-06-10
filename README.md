@@ -1,2 +1,3 @@
-# Adhyapana
-Student Management System for Desktops developed using Java Swing and MySQL Database by Sahan Sachintha.
+# Alpha-Inventory-System
+
+Inventory Management System developed using Java Swing and MySQL database, by Sahan Sachintha
